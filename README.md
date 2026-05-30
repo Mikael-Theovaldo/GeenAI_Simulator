@@ -1,2 +1,0 @@
-﻿# GeenAI_ Simulator
-
