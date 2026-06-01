@@ -1,8 +1,8 @@
-package openAI_Simulator.main;
+package geenAI_Simulator.main;
 
-import openAI_Simulator.model.Conversa;
-import openAI_Simulator.model.Resposta;
-import openAI_Simulator.model.Usuario;
+import geenAI_Simulator.model.Conversa;
+import geenAI_Simulator.model.Resposta;
+import geenAI_Simulator.model.Usuario;
 
 import java.util.Scanner;
 

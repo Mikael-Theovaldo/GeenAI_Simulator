@@ -1,4 +1,4 @@
-package openAI_Simulator.model;
+package geenAI_Simulator.model;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,4 @@
-package openAI_Simulator.model;
-
-import java.util.List;
+package geenAI_Simulator.model;
 
 public class Usuario {
     private String id;

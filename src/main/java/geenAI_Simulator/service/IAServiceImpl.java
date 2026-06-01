@@ -1,7 +1,7 @@
-package openAI_Simulator.service;
+package geenAI_Simulator.service;
 
-import openAI_Simulator.model.Prompt;
-import openAI_Simulator.model.Resposta;
+import geenAI_Simulator.model.Prompt;
+import geenAI_Simulator.model.Resposta;
 
 public class IAServiceImpl implements IAService{
     @Override

@@ -1,4 +1,4 @@
-package openAI_Simulator.model;
+package geenAI_Simulator.model;
 
 public class Resposta {
     private String conteudo;
